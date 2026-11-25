@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[9763,[],"OutletBoundary"]
+3:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"legal","children":[["$","a",null,{"href":"/job-offer-compass-jp/","children":"← 求人票くらべへ戻る"}],["$","h1",null,{"children":"プライバシー"}],["$","p",null,{"children":"求人票の入力内容は、お使いのブラウザ内だけで計算されます。入力した給与・休日・通勤時間などをサーバーへ送信・保存しません。"}],["$","p",null,{"children":"改善の判断に使うため、「ページを開いた」「比較した」「結果をコピーした」という種類別の回数だけを日ごとに集計します。氏名や入力内容を保存せず、本ツール独自のCookieによる個人識別も行いません。"}],["$","p",null,{"children":"配信基盤（Cloudflare）は、不正アクセス対策のための短期的なセキュリティCookieを設定する場合があります。"}],["$","h2",null,{"children":"外部リンク"}],["$","p",null,{"children":"外部サイトへ移動した後の情報の扱いは、各サイトの方針をご確認ください。"}],["$","p",null,{"className":"legal-note","children":"最終更新：2026年8月30日"}]]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"s7QxHYe4o82Z_Eho25DAj"}
+4:null
