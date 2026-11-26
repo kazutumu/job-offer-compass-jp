@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://job-offer-compass-jp.kazutumu0.chatgpt.site/sitemap.xml
+Sitemap: https://kazutumu.github.io/job-offer-compass-jp/sitemap.xml
